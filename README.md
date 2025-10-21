@@ -1,1 +1,2 @@
 ## LLMs especializado en Credit Scoring
+https://notebooklm.google.com/notebook/981cad6d-d08e-4db0-a5e7-595ae79a360e
